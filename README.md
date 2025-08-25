@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Herfando 💻  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=🚀+Front+End+Developer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Front+End+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,8 +47,6 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="50" height="50" style="margin: 15px;"/>
   
-  <!-- GitHub (white logo + background biar jelas di semua mode) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" 
-       alt="GitHub" title="GitHub" width="50" height="50" 
-       style="margin: 15px; background-color: black; border-radius: 12px; padding: 5px;"/>
+  <!-- GitHub (white version biar jelas di dark mode) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" title="GitHub" width="50" height="50" style="margin: 15px;"/>
 </p>
