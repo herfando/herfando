@@ -25,7 +25,7 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
+<p align="center" style="gap: 20px">
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50" style="margin: 10px;"/>
   <!-- Tailwind CSS -->
