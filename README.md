@@ -1,28 +1,3 @@
-## Hi there 👋 I'm Herfando 💻  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Front+End+Developer" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-Hi there! I'm a passionate **Frontend Developer** who loves turning ideas into interactive, high-performance web experiences.  
-With strong expertise in **JavaScript**, **TypeScript**, and modern frameworks like **React.js** and **Next.js**,  
-I focus on building scalable, maintainable, and user-friendly applications.  
-
-I specialize in:
-- 🎨 Crafting responsive UI with **Tailwind CSS**  
-- ⚡ State management using **Redux**  
-- 🚀 Full project workflows powered by **GitHub**  
-
-I’m always eager to learn new technologies, contribute to exciting projects, and collaborate with teams who share the same passion for clean code and innovation.  
-
-> 💡 My goal is to create applications that are not only functional but also delightful to use.  
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -47,6 +22,11 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="50" height="50" style="margin: 15px;"/>
   
-  <!-- GitHub (white version biar jelas di dark mode) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" title="GitHub" width="50" height="50" style="margin: 15px;"/>
+  <!-- GitHub dengan border putih -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" 
+       title="GitHub" 
+       width="50" 
+       height="50" 
+       style="margin: 15px; background-color: black; border-radius: 10px; border: 2px solid white; padding: 5px;"/>
 </p>
