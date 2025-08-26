@@ -44,8 +44,3 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" height="50" style="margin: 10px; border: 2px solid white; border-radius: 50%;"/>
 </p>
 
-📈 **My GitHub Stats:**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herfando&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
