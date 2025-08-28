@@ -10,7 +10,7 @@
 
 Hi there! I'm a passionate **Frontend Developer** who loves turning ideas into interactive, high-performance web experiences.  
 With strong expertise in **JavaScript**, **TypeScript**, and modern frameworks like **React.js** and **Next.js**,  
-I focus on building scalable, maintainable, and user-friendly applications.  
+I focus on building scalable, maintainable, and user-friendly applications and I experience work using agile methodologies (SCRUM).
 
 I specialize in:
 - 🎨 Crafting responsive UI with **Tailwind CSS**  
