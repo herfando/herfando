@@ -47,8 +47,8 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
 📈 **My GitHub Stats:**
 
 <p align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herfando&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herfando&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herfando&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herfando&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
