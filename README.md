@@ -48,7 +48,7 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
 
 <p align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herfando&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=herfando" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herfando" />
 </p>
 
 
