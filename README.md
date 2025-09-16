@@ -47,14 +47,8 @@ I’m always eager to learn new technologies, contribute to exciting projects, a
 📈 **My GitHub Stats:**
 
 <p align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herfando&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herfando&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herfando&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herfando&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
 </p>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herfando&theme=radical)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=herfando&theme=radical&utcOffset=7)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herfando&theme=radical)
-![Radar](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herfando&theme=radical)
 
