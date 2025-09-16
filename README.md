@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=🚀+Front+End+Developer+🚀" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJkM2Y1ZGM5OTI4ZTU0YjVhYjQwY2EyMGQ1OGE0MmYwM2Q5NzRkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
