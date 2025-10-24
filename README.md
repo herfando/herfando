@@ -12,16 +12,20 @@
 
 ## 👨‍💻 About Me  
 
-Hi there! I'm a passionate **Frontend Developer** who loves turning ideas into interactive, high-performance web experiences.  
-With strong expertise in **JavaScript**, **TypeScript**, and modern frameworks like **React.js** and **Next.js**,  
-I focus on building scalable, maintainable, and user-friendly applications and I experience work using agile methodologies (SCRUM).
+Hi there! I'm a passionate Software Engineer, Frontend specializing in transforming complex ideas into intuitive, high-performance web applications.
 
-I specialize in:
-- 🎨 Crafting responsive UI with **Tailwind CSS**  
-- ⚡ State management using **Redux**  
-- 🚀 Full project workflows powered by **GitHub**  
+Leveraging **Next.js**, **TypeScript**, and **React.js**, I focus on engineering scalable and user-centric solutions. My experience includes working within fast-paced **Agile (SCRUM)** environments, always prioritizing clean, maintainable code.
 
-I’m always eager to learn new technologies, contribute to exciting projects, and collaborate with teams who share the same passion for clean code and innovation.  
+I Specialize In:
+🎨 UI/UX & Styling: Crafting responsive interfaces with **Tailwind CSS**, **ShadcnUI** and enhancing user experience with **Framer Motion** for polished animations.
+
+⚡ State Architecture: Implementing versatile state management using **Redux** (for complex scaling) and **Zustand** (for lightweight performance).
+
+🔄 Data Management: Handling asynchronous operations and server state efficiently with **TanStack Query**.
+
+🚀 Workflow: Ensuring robust project workflows and collaboration via **GitHub**.
+
+I’m always eager to collaborate, learn, and contribute to innovative projects that share the same passion for clean code and innovation.
 
 > 💡 My goal is to create applications that are not only functional but also delightful to use.  
 
