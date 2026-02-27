@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 
-  Hi there! I'm a passionate **Software Engineer, Frontend** specializing in transforming complex ideas into intuitive, high-performance web applications.
+  Hi there! I'm a passionate **Software Engineer, Full Stack** specializing in transforming complex ideas into intuitive, high-performance web applications.
 
 Leveraging **Next.js, TypeScript, and React.js**, I focus on engineering scalable and user-centric solutions. My experience includes working within fast-paced **Agile (SCRUM)** environments, always prioritizing clean, maintainable code.
 
