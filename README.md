@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/Herfando/enterprise-ai-operations-director/main/assets/ai-network.svg" width="350"/>
 </p>
 
 ---
