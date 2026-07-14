@@ -5,25 +5,7 @@
 </p>
 
 <p align="center">
-  <svg width="350" height="180" viewBox="0 0 350 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="350" height="180" rx="20" fill="#0D1117"/>
-    
-    <circle cx="175" cy="90" r="45" stroke="#58A6FF" stroke-width="3"/>
-    <circle cx="175" cy="90" r="20" stroke="#58A6FF" stroke-width="3"/>
-    
-    <path d="M175 45V20M175 160V135M130 90H105M245 90H220" 
-    stroke="#58A6FF" stroke-width="3"/>
-    
-    <path d="M145 70L175 90L205 70M145 110L175 90L205 110" 
-    stroke="#58A6FF" stroke-width="3"/>
-    
-    <text x="175" y="170" 
-    text-anchor="middle" 
-    fill="#58A6FF" 
-    font-size="14">
-      AI COMMAND CENTER
-    </text>
-  </svg>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="350"/>
 </p>
 
 ---
